@@ -1,4 +1,4 @@
-# Machine Learning 
+# Deep Learning 
 
 * ## Solution codes of Deep Learning specialization by Andrew NG on Coursera.
 * ## It contains 5 courses:
